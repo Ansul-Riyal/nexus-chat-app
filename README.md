@@ -77,34 +77,3 @@ npm run dev
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Contributing
-
-Contributions to this project are welcome. If you'd like to contribute, please follow these steps:
-
-1. Fork this repository.
-
-2. Create a new branch for your feature or bug fix:
-
-```bash
-git checkout -b <YOUR_BRANCH_NAME>
-```
-
-3. Make the appropriate changes to the files and commit changes:
-
-```bash
-git add .
-git commit -m "<YOUR_COMMIT_MESSAGE>"
-```
-
-4. Push to the branch:
-
-```bash
-git push origin <YOUR_BRANCH_NAME>
-```
-
-5. View the changes in your fork and create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
